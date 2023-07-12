@@ -1,4 +1,8 @@
 function [F,esterr] = funm2(A,fun)
+
+%this is MATLAB's default function used to compute functions of matrices.
+
+
 %FUNM Evaluate general matrix function.
 %   F = FUNM(A,FUN) for a square matrix argument A, evaluates the
 %   matrix version of the function FUN. For matrix exponentials,
