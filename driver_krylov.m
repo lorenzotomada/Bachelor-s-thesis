@@ -1,4 +1,4 @@
-%esperimento numerico con una matrice random 20x20
+% esperimento numerico con una matrice random 20x20
 
 
 close all
