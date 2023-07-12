@@ -1,3 +1,6 @@
+%esperimento numerico con una matrice random 20x20
+
+
 close all
 clear all
 
