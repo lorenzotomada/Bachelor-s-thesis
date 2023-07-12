@@ -1,3 +1,6 @@
+% esperimento numerico con la matrice derivante dalla discretizzazione del Laplaciano nel caso n=1
+
+
 close all
 clear all
 
